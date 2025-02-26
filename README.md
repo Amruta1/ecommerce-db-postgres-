@@ -1,8 +1,10 @@
 # ecommerce-db-postgres-
 
-This project involves designing and implementing an OLAP (Online Analytical Processing) database for an e-commerce platform using PostgreSQL. The system enables efficient querying, reporting, and analysis of product sales, customer interactions, and supplier information.
-Business Objectives
-•	Enable detailed sales analytics and trend forecasting.
-•	Improve customer segmentation based on purchasing behavior.
-•	Enhance inventory and supplier management.
-•	Facilitate multi-dimensional analysis for decision-making.
+A structured and scalable e-commerce database designed in PostgreSQL to manage products, users, orders, payments, and more.
+
+ Features
+✅ Normalized database schema for efficiency
+✅ Supports multiple vendors & product categories
+✅ Manages user accounts, orders, payments, and inventory
+✅ Optimized for scalability and performance
+
